@@ -15,8 +15,7 @@ Deck
 4 Windcrag Siege (TDM) 235
 3 Suki, Courageous Rescuer (TLA) 37
 2 Fountainport (BLB) 253
-1 Multiversal Passage (OM1) 181
-3 Dalkovan Packbeasts (TDM) 7
+4 Shock (MKM) 144
 4 Burst Lightning (FDN) 192
 
 Sideboard
