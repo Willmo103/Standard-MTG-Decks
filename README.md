@@ -1,2 +1,4 @@
 # Standard-MTG-Decks
-Git control for changes to my MTG Arena Deck lists
+Repo for my MTG Arena Decklist Changes
+
+[Arabella Aggro](arabella_aggro.md)
