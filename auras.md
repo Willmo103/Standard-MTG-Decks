@@ -14,5 +14,5 @@ Deck
 4 Sheltered by Ghosts (DSK) 30
 2 A Most Helpful Weaver (OM1) 14
 2 Return Triumphant (WOE) 26
-2 Family Reunion (LCI) 13
+2 Path to Redemption (TLA) 31
 ```
